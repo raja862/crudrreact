@@ -1,0 +1,18 @@
+
+.container{
+  /* flex-direction: column; */
+  /* animation-iteration-count: infinite; */
+  min-height: 20px;
+ color: blueviolet;
+  text-align: center;
+  
+}
+/* .View Users{
+  align-content: center;
+  align-items: flex-end;
+
+} */
+body{
+  background-color: rgb(18, 245, 245);
+ /* background-image:url("https://assets.website-files.com/5ff66329429d880392f6cba2/61c323afb777801522775611_CRUD%20%20Preview.png"); */
+}
